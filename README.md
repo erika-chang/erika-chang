@@ -17,7 +17,7 @@ I specialize in applying statistical thinking and machine learning to complex da
 ## 🛠️ Skills
 
 **Languages & Libraries**  
-`Python`, `pandas`, `NumPy`, `scikit-learn`, `TensorFlow`, `Matplotlib`, `Seaborn`, `SQL`, `Jupyter`
+`Python`, `pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SQL`, `scikit-learn`, `TensorFlow`
 
 **Concepts**  
 - Supervised & Unsupervised Learning  
