@@ -6,7 +6,7 @@ Hi! I'm Erika, a scientist turned data scientist with a deep curiosity for solvi
 
 ## 🔍 About Me
 
-- 🎓 PhD in Biomolecular Physics | MSc in Molecular Biology  
+- 🎓 PhD in Biomolecular Physics | MSc in Biomolecular Physics  
 - 💻 Completed a full-time Data Science & AI Bootcamp @ Le Wagon  
 - 🇳🇱 Based in the Netherlands, open to roles in NL, Germany, or Spain
 
