@@ -1,6 +1,6 @@
 # 👩‍🔬 Erika Chang de Azevedo | Data Scientist | PhD in Biomolecular Physics
 
-Hi! I'm Erika, a scientist turned data scientist with a deep curiosity for solving real-world problems using data. With over a decade of experience in biomolecular physics and computational biology, I now bring that analytical mindset into the world of machine learning and artificial intelligence.
+Hi! I'm Erika, a scientist with a deep curiosity for solving real-world problems using data. With over a decade of experience in biomolecular physics and computational biology, I now bring that analytical mindset into the world of machine learning and artificial intelligence.
 
 ---
 
