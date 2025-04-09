@@ -8,7 +8,7 @@ Hi! I'm Erika, a scientist with a deep curiosity for solving real-world problems
 
 - 🎓 PhD in Biomolecular Physics | MSc in Biomolecular Physics  
 - 💻 Completed a full-time Data Science & AI Bootcamp @ Le Wagon  
-- 🇳🇱 Based in the Netherlands, open to roles in NL, Germany, or Spain
+- 🇳🇱 Based in the Netherlands, open to roles
 
 I specialize in applying statistical thinking and machine learning to complex datasets, particularly in **bioinformatics**, **healthcare**, **natural language processing**, and **education**.
 
