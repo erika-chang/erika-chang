@@ -35,15 +35,22 @@ Here are a few projects I’ve been working on — more coming soon!
 
 ### 👵 Job Security Dashboard: Retirement Patterns
 **Data analysis | Retirement patterns**
+
 This project explores retirement patterns among public employees in Brazil, aiming to analyze trends and create an interactive dashboard to visualize insights on retirement.
+
 🧪 Python, Pandas, matplotlib
+
 📍 https://github.com/erika-chang/retirement-dashboard-brazil
 
 ### 👁️ Eyesense: eye disease prediction
 **ML | Deep Learning | Disease prevention**
+
 This project aims to predict eye diseases using datasets from the [Kaggle Ocular Disease Recognition (ODIR-5K) Challenge] (https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k/data). The model is trained on fundus images to identify various eye conditions through AI-driven analysis.[Kaggle challenge].
+
 🧪 Python, scikit-learn, Tensorflow/Keras, matplotlib, GCloud, streamlit
+
 📍 https://github.com/erika-chang/eyesense
+
 📍 https://github.com/erika-chang/eyesense-website
 
 ### 🔬 Protein-Drug Binding Prediction  
