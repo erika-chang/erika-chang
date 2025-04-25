@@ -33,7 +33,7 @@ I specialize in applying statistical thinking and machine learning to complex da
 
 Here are a few projects I’ve been working on — more coming soon!
 
-### 👵 Job Security Dashboard: Retirement Patterns
+### 👵 Job Security: Retirement Patterns
 **Data analysis | Retirement patterns**
 
 This project explores retirement patterns among public employees in Brazil, aiming to analyze trends and create an interactive dashboard to visualize insights on retirement.
@@ -45,7 +45,7 @@ This project explores retirement patterns among public employees in Brazil, aimi
 ### 👁️ Eyesense: eye disease prediction
 **ML | Deep Learning | Disease prevention**
 
-This project aims to predict eye diseases using datasets from the [Kaggle Ocular Disease Recognition (ODIR-5K) Challenge] (https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k/data). The model is trained on fundus images to identify various eye conditions through AI-driven analysis.[Kaggle challenge].
+This project aims to predict eye diseases using datasets from the [Kaggle Ocular Disease Recognition (ODIR-5K) Challenge](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k/data). The model is trained on fundus images to identify various eye conditions through AI-driven analysis.
 
 🧪 Python, scikit-learn, Tensorflow/Keras, matplotlib, GCloud, streamlit
 
