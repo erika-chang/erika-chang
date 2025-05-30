@@ -11,6 +11,7 @@ Hi! I'm Erika, a scientist with a deep curiosity for solving real-world problems
 - 🇳🇱 Based in the Netherlands, open to roles
 
 I specialize in applying statistical thinking and machine learning to complex datasets.
+
 ---
 
 ## 🛠️ Skills
