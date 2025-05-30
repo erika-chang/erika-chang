@@ -10,8 +10,7 @@ Hi! I'm Erika, a scientist with a deep curiosity for solving real-world problems
 - 💻 Completed a full-time Data Science & AI Bootcamp @ Le Wagon  
 - 🇳🇱 Based in the Netherlands, open to roles
 
-I specialize in applying statistical thinking and machine learning to complex datasets, particularly in **bioinformatics**, **healthcare**, **natural language processing**, and **education**.
-
+I specialize in applying statistical thinking and machine learning to complex datasets.
 ---
 
 ## 🛠️ Skills
